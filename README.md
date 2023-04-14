@@ -7,14 +7,14 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[rails-template-with-auth-rspec\] ](#-rails-template-with-auth-rspec-)
+- [📖 \[RubyOnRailsAuthTemplate\] ](#-rubyonrailsauthtemplate-)
   - [🛠 Built With ](#-built-with-)
   - [👥 Authors ](#-authors-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [📝 License ](#-license-)
 
-# 📖 [rails-template-with-auth-rspec] <a name="about-project"></a>
+# 📖 [RubyOnRailsAuthTemplate] <a name="about-project"></a>
 
 > Rails Startup template with authentication rspec, rubocop, and more. This template is a good starting point for any rails project.
 
