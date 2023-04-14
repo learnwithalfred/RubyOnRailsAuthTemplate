@@ -67,9 +67,9 @@ group :development do
   # Speed up commands on slow machines / big apps [https://github.com/rails/spring]
   # gem "spring"
 end
+
 gem 'devise'
 gem 'faker'
-
 gem 'rails-controller-testing'
 
 # gem 'devise_security_extension'
